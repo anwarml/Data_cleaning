@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib
 
 ## Author
 
-[Your Name]
+Anwar ul haq
 
 ## License
 
